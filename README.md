@@ -5,4 +5,5 @@ Association between the use of daily injury risk estimation feedback (I-REF) bas
 
 Under review in BMJ Open Sport & Exercise Medicine, 2024.
 
-<img src="./IMAGE/IPredict-AI.png" style="max-width:50%; height:auto;">
+<img src="./IMAGE/IPredict-AI.png" width="500" height="300">
+
